@@ -20,3 +20,6 @@ This is a simple HTML project built to practice:
 
 ## Live Demo
 https://anne-barbosa.github.io/client-intake-form/
+
+## Author
+Anne Barbosa
